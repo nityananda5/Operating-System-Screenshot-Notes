@@ -1,0 +1,4 @@
+/Deadlock filter=lfs diff=lfs merge=lfs -text
+/CPU_Scheduling filter=lfs diff=lfs merge=lfs -text
+/Memory[[:space:]]Management filter=lfs diff=lfs merge=lfs -text
+/Process[[:space:]]Scynchronization filter=lfs diff=lfs merge=lfs -text
